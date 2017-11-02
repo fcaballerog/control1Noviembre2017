@@ -27,7 +27,7 @@
 		</div>
 		<div class="col-md-6">
 			<form method="post"
-				action="<%=request.getContextPath()%>/Ejercicio2">
+				action="/control1_DSW/Ejercicio2">
 				<button class="btn btn-primary btn-block" type="submit">Ejercicio 2
 				</button>
 			</form>
