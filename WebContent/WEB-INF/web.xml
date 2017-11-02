@@ -9,14 +9,5 @@
     <welcome-file>default.htm</welcome-file>
     <welcome-file>default.jsp</welcome-file>
   </welcome-file-list>
-    
- <servlet>
-  	<servlet-name>Ejercicio01</servlet-name>
-  	<servlet-class>ejercicio01.Ejercicio01</servlet-class>
-  </servlet>
-  <servlet-mapping>
-  	<servlet-name>Ejercicio01</servlet-name>
-  	<url-pattern>/Ejercicio1</url-pattern>
-  </servlet-mapping>
   
 </web-app>
